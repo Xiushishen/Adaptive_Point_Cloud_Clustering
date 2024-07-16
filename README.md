@@ -1,10 +1,10 @@
 # Adaptive_Point_Cloud_Clustering
-Here is the implementation of point cloud clustering for Livox HAP Lidar
+Here is the implementation of point cloud clustering for Livox HAP Lidar for object detection. This package can be run with VLP or Livox Lidar with different parameter setting. 
 
 ## How to build ##
 ```
 $ cd ~/catkin_ws/src/
-$ git clone https://github.com/yzrobot/adaptive_clustering.git
+$ git clone git@github.com:Xiushishen/Adaptive_Point_Cloud_Clustering.git
 $ cd ~/catkin_ws
 $ catkin_make
 ```
