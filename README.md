@@ -10,9 +10,8 @@ $ catkin_make
 ```
 
 ## Citation ##
-```
 This implementation is based on this paper. If you want to use this package, pleaser cite:
-
+```
 @article{yz19auro,
    author = {Zhi Yan and Tom Duckett and Nicola Bellotto},
    title = {Online learning for 3D LiDAR-based human detection: Experimental analysis of point cloud clustering and classification methods},
