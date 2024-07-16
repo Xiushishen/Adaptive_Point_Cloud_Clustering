@@ -1,22 +1,15 @@
 # Adaptive_Point_Cloud_Clustering
 Here is the implementation of point cloud clustering for Livox HAP Lidar
 
-# Adaptive Clustering: A lightweight and accurate point cloud clustering method #
-
-*Downsampling, cluster merging, and more.*
-
-[![YouTube Video](https://img.youtube.com/vi/rmPn7mWssto/0.jpg)](https://www.youtube.com/watch?v=rmPn7mWssto)
-
 ## How to build ##
 ```
 $ cd ~/catkin_ws/src/
-$ git clone -b devel https://github.com/yzrobot/adaptive_clustering.git
+$ git clone https://github.com/yzrobot/adaptive_clustering.git
 $ cd ~/catkin_ws
 $ catkin_make
 ```
 
 ## Citation ##
-If you are considering using this code, please reference the following:
 ```
 @article{yz19auro,
    author = {Zhi Yan and Tom Duckett and Nicola Bellotto},
